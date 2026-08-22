@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\bin\Debug\net10.0\ex14validacaowhile.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\bin\Debug\net10.0\ex14validacaowhile.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\bin\Debug\net10.0\ex14validacaowhile.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\bin\Debug\net10.0\ex14validacaowhile.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\bin\Debug\net10.0\ex14validacaowhile.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\refint\ex14validacaowhile.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14validacaowhile.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ref\ex14validacaowhile.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex14validacaowhile\obj\Debug\net10.0\ex14vali.C49660B2.Up2Date

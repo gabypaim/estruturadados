@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex19maiormenormediaarray/1.0.0": {
+        "runtime": {
+          "ex19maiormenormediaarray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex19maiormenormediaarray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

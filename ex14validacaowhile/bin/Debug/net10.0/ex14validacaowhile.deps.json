@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex14validacaowhile/1.0.0": {
+        "runtime": {
+          "ex14validacaowhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex14validacaowhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

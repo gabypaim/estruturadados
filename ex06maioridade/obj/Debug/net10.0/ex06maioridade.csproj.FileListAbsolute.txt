@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\bin\Debug\net10.0\ex06maioridade.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\bin\Debug\net10.0\ex06maioridade.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\bin\Debug\net10.0\ex06maioridade.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\bin\Debug\net10.0\ex06maioridade.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\bin\Debug\net10.0\ex06maioridade.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\refint\ex06maioridade.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maioridade.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ref\ex06maioridade.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex06maioridade\obj\Debug\net10.0\ex06maio.CA10DAEA.Up2Date

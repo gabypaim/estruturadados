@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\bin\Debug\net10.0\ex19maiormenormediaarray.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\bin\Debug\net10.0\ex19maiormenormediaarray.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\bin\Debug\net10.0\ex19maiormenormediaarray.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\bin\Debug\net10.0\ex19maiormenormediaarray.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\bin\Debug\net10.0\ex19maiormenormediaarray.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\refint\ex19maiormenormediaarray.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maiormenormediaarray.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ref\ex19maiormenormediaarray.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex19maiormenormediaarray\obj\Debug\net10.0\ex19maio.44CCF6C9.Up2Date

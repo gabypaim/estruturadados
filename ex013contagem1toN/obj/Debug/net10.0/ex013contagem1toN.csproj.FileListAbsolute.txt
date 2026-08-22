@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\bin\Debug\net10.0\ex013contagem1toN.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\bin\Debug\net10.0\ex013contagem1toN.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\bin\Debug\net10.0\ex013contagem1toN.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\bin\Debug\net10.0\ex013contagem1toN.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\bin\Debug\net10.0\ex013contagem1toN.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\refint\ex013contagem1toN.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013contagem1toN.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ref\ex013contagem1toN.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex013contagem1toN\obj\Debug\net10.0\ex013con.C6E032C2.Up2Date

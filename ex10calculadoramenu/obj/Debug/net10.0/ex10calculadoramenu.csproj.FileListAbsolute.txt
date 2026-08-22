@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\bin\Debug\net10.0\ex10calculadoramenu.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\bin\Debug\net10.0\ex10calculadoramenu.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\bin\Debug\net10.0\ex10calculadoramenu.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\bin\Debug\net10.0\ex10calculadoramenu.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\bin\Debug\net10.0\ex10calculadoramenu.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\refint\ex10calculadoramenu.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calculadoramenu.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ref\ex10calculadoramenu.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex10calculadoramenu\obj\Debug\net10.0\ex10calc.03D9AF26.Up2Date

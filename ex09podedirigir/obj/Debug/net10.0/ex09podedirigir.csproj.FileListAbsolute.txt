@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\bin\Debug\net10.0\ex09podedirigir.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\bin\Debug\net10.0\ex09podedirigir.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\bin\Debug\net10.0\ex09podedirigir.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\bin\Debug\net10.0\ex09podedirigir.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\bin\Debug\net10.0\ex09podedirigir.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\refint\ex09podedirigir.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09podedirigir.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ref\ex09podedirigir.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex09podedirigir\obj\Debug\net10.0\ex09pode.7E8B8829.Up2Date

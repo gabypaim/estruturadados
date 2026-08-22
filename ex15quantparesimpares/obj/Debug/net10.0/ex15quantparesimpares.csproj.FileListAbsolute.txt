@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\bin\Debug\net10.0\ex15quantparesimpares.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\bin\Debug\net10.0\ex15quantparesimpares.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\bin\Debug\net10.0\ex15quantparesimpares.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\bin\Debug\net10.0\ex15quantparesimpares.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\bin\Debug\net10.0\ex15quantparesimpares.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\refint\ex15quantparesimpares.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quantparesimpares.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ref\ex15quantparesimpares.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex15quantparesimpares\obj\Debug\net10.0\ex15quan.2747A625.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\bin\Debug\net10.0\ex03somadoisnumeros.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\bin\Debug\net10.0\ex03somadoisnumeros.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\bin\Debug\net10.0\ex03somadoisnumeros.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\bin\Debug\net10.0\ex03somadoisnumeros.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\bin\Debug\net10.0\ex03somadoisnumeros.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\refint\ex03somadoisnumeros.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03somadoisnumeros.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ref\ex03somadoisnumeros.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex03somadoisnumeros\obj\Debug\net10.0\ex03soma.C62AB9E0.Up2Date

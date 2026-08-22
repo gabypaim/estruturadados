@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\bin\Debug\net10.0\ex05mediatresnotas.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\bin\Debug\net10.0\ex05mediatresnotas.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\bin\Debug\net10.0\ex05mediatresnotas.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\bin\Debug\net10.0\ex05mediatresnotas.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\bin\Debug\net10.0\ex05mediatresnotas.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\refint\ex05mediatresnotas.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05mediatresnotas.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ref\ex05mediatresnotas.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex05mediatresnotas\obj\Debug\net10.0\ex05medi.51BDF8E6.Up2Date

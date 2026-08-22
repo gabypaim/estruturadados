@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\bin\Debug\net10.0\ex16metododobro.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\bin\Debug\net10.0\ex16metododobro.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\bin\Debug\net10.0\ex16metododobro.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\bin\Debug\net10.0\ex16metododobro.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\bin\Debug\net10.0\ex16metododobro.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\refint\ex16metododobro.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16metododobro.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ref\ex16metododobro.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex16metododobro\obj\Debug\net10.0\ex16meto.A88FFE18.Up2Date

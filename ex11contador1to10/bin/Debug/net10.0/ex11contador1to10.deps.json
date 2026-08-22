@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ex11contador1to10/1.0.0": {
+        "runtime": {
+          "ex11contador1to10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex11contador1to10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

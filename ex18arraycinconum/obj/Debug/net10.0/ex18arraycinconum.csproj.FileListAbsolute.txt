@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\bin\Debug\net10.0\ex18arraycinconum.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\bin\Debug\net10.0\ex18arraycinconum.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\bin\Debug\net10.0\ex18arraycinconum.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\bin\Debug\net10.0\ex18arraycinconum.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\bin\Debug\net10.0\ex18arraycinconum.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\refint\ex18arraycinconum.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arraycinconum.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ref\ex18arraycinconum.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex18arraycinconum\obj\Debug\net10.0\ex18arra.590C972B.Up2Date

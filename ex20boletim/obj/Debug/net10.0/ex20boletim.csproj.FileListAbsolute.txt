@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\bin\Debug\net10.0\ex20boletim.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\bin\Debug\net10.0\ex20boletim.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\bin\Debug\net10.0\ex20boletim.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\bin\Debug\net10.0\ex20boletim.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\bin\Debug\net10.0\ex20boletim.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\refint\ex20boletim.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20boletim.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ref\ex20boletim.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex20boletim\obj\Debug\net10.0\ex20bole.0112EBA3.Up2Date

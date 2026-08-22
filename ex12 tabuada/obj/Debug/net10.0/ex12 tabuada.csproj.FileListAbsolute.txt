@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\bin\Debug\net10.0\ex12 tabuada.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\bin\Debug\net10.0\ex12 tabuada.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\bin\Debug\net10.0\ex12 tabuada.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\bin\Debug\net10.0\ex12 tabuada.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\bin\Debug\net10.0\ex12 tabuada.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\refint\ex12 tabuada.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tabuada.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ref\ex12 tabuada.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex12 tabuada\obj\Debug\net10.0\ex12 tab.F0A734AF.Up2Date

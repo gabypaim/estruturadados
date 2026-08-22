@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\bin\Debug\net10.0\ex01olaaluno.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\bin\Debug\net10.0\ex01olaaluno.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\bin\Debug\net10.0\ex01olaaluno.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\bin\Debug\net10.0\ex01olaaluno.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\bin\Debug\net10.0\ex01olaaluno.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\refint\ex01olaaluno.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaaluno.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ref\ex01olaaluno.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ex01olaaluno\obj\Debug\net10.0\ex01olaa.02950317.Up2Date
