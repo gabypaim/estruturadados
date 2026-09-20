@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex02insercaofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex02insercaofinal\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|solutionrelative:no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex02insercaofinal\\listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E557EFE-377C-4C38-BB4E-7346DA1208FC}|ex02InsercaoFinal.csproj|solutionrelative:listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaSimples.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\ListaSimples.cs",
+              "RelativeDocumentMoniker": "ListaSimples.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\ListaSimples.cs",
+              "RelativeToolTip": "ListaSimples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T13:01:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "No.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\No.cs",
+              "RelativeDocumentMoniker": "No.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\No.cs",
+              "RelativeToolTip": "No.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T12:31:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex02InsercaoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T12:29:32.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
