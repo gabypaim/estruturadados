@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex07inserirdepoisnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex07inserirdepoisnum\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex07inserirdepoisnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83027C77-AF30-193D-82B6-F2BA5AC362EA}|ex07InserirDepoisNum.csproj|c:\\users\\gabri\\desktop\\faculdade\\estruturadados\\listassimplesmenteencadeadas\\ex07inserirdepoisnum\\no.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,19 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Lista.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",
               "ToolTip": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAqwIEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T20:27:04.787Z"
+              "WhenOpened": "2026-09-28T20:27:04.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
