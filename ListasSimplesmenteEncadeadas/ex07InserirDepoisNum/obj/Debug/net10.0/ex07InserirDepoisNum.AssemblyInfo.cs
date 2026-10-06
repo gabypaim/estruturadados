@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex07InserirDepoisNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+792457c7e80aa948a571a5d290d4750b596184eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f813e7b3aff9bb4fa7bfd8b1a7c6ee5f7f8351")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex07InserirDepoisNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex07InserirDepoisNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

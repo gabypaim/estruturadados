@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\bin\Debug\net10.0\ex08ObterPosicao.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\bin\Debug\net10.0\ex08ObterPosicao.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\bin\Debug\net10.0\ex08ObterPosicao.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\bin\Debug\net10.0\ex08ObterPosicao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\bin\Debug\net10.0\ex08ObterPosicao.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\refint\ex08ObterPosicao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08ObterPosicao.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ref\ex08ObterPosicao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex08ObterPosicao\obj\Debug\net10.0\ex08Obte.A3E68F8A.Up2Date
