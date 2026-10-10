@@ -1,0 +1,15 @@
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.AssemblyInfoInputs.cache
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.AssemblyInfo.cs
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.csproj.CoreCompileInputs.cache
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.sourcelink.json
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\bin\Debug\net10.0\ex09InverterLista.exe
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\bin\Debug\net10.0\ex09InverterLista.deps.json
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\bin\Debug\net10.0\ex09InverterLista.runtimeconfig.json
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\bin\Debug\net10.0\ex09InverterLista.dll
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\bin\Debug\net10.0\ex09InverterLista.pdb
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.dll
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\refint\ex09InverterLista.dll
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.pdb
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ex09InverterLista.genruntimeconfig.cache
+C:\Users\gabyp\Documents\GitHub\estruturadados\ListasSimplesmenteEncadeadas\ex09InverterLista\ex09InverterLista\obj\Debug\net10.0\ref\ex09InverterLista.dll
