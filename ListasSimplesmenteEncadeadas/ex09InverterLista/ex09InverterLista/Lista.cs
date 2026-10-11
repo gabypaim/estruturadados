@@ -13,18 +13,6 @@ public class Lista
         Inicio = novoNo; //Inicio agora é o novoNo
 
     }
-
-    public void Mostrar()
-    {
-        No? atual = Inicio; //começamos no inicio
-
-        while (atual != null) //enquanto o atual não for nulo ele escreve o valor atual e vai para o proximo
-        {
-            Console.WriteLine(atual.Valor);
-            atual = atual.Proximo;
-        }
-    }
-
     public void InserirNoFinal(int valor)
     {
         //cria o no
@@ -39,17 +27,105 @@ public class Lista
             return;
         }
         
-        //atual começa no inicio
-        No atual = Inicio;
+        No atual = Inicio;  //atual começa no inicio
         
-        //enquanto o proximo nó não for vazio o atual percorre
-        while (atual.Proximo != null)
+        while (atual.Proximo != null)  //enquanto o proximo nó não for vazio o atual percorre
+
         {
             atual = atual.Proximo;
         }
-        //coloca o nó no proxima que esta vazio
-        atual.Proximo = novoNo;
-        
+        atual.Proximo = novoNo;  //coloca o nó no proxima que esta vazio
     }
 
+    public int Contar()
+    {
+        int quantidade = 0;
+        No? atual = Inicio;
+
+        while (atual != null)
+        {
+            quantidade++;
+            atual = atual.Proximo;
+        }
+        return quantidade;
+    }
+
+    public No Buscar(int valor)
+    {
+        if (Inicio == null)
+        {
+            return null;
+        }
+
+        No atual = Inicio;
+
+        while (atual != null)
+        {
+            if (atual.Valor == valor)
+            {
+                return atual;
+            }
+            atual = atual.Proximo;
+        }
+        return null;
+    }
+    public bool RemoverDoInicio()
+    {
+        if (Inicio == null) //se a lista for vazia o metodo retorna false
+        {
+            return false;
+        }
+        
+        Inicio = Inicio.Proximo; //inicio vai para o proximo mesmo se for null
+        return true; //retorna verdadeiro
+    }
+
+    public void Remover(int valor)
+    {
+        if (Inicio == null) // lista vazia acaba
+        {
+            return;
+        }
+
+        if (Inicio.Valor == valor) //valor está no inicio 
+        {
+            Inicio = Inicio.Proximo; //inicio agora vai ser o proximo 
+            return; // acaba o metodo pq ja removeu 
+        }
+        
+        No? anterior = null;
+        No? atual =  Inicio;
+
+        while (atual != null && atual.Valor != valor) // enquanto atual não for vazio e atual n for o valor 
+        {
+            anterior = atual; // guarda o nó atual como anterior
+            atual = atual.Proximo; // avança pro proximo nó
+        }
+
+        if (atual == null)
+        {
+            return; // se o atual percorre a lista inteira e não encontra ela acaba recebendo null e então acaba
+        }
+        
+        anterior!.Proximo = atual.Proximo; //anterior não vai apontar para o proximo ele vai apontar para o proximo do atual (vai pular o atual e ir direto pro proximo)
+    }
+
+    public void InserirDepoisDe(int valor, int referencia)
+    {
+        if (Inicio == null)
+        {
+            return;
+        }
+    }
+    
+    public void Mostrar()
+    {
+        No? atual = Inicio; //começamos no inicio
+
+        while (atual != null) //enquanto o atual não for nulo ele escreve o valor atual e vai para o proximo
+        {
+            Console.WriteLine($"* {atual.Valor}");
+            atual = atual.Proximo;
+        }
+    }
 }
