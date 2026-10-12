@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj": {
+    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj",
         "projectName": "ex09InverterLista",
-        "projectPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj",
-        "packagesPath": "C:\\Users\\gabyp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\obj\\",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\ex09InverterLista.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex09InverterLista\\ex09InverterLista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabyp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

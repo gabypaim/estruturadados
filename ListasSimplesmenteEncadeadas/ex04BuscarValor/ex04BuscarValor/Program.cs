@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Lista lista = new Lista();
-
+        
         lista.InserirNoInicio(20);
         lista.InserirNoInicio(10);
         lista.InserirNoFinal(30);
@@ -21,7 +21,7 @@ class Program
             ? $"\nEncontrado: {encontrado.Valor}"
             : "Não encontrado!\n");
         
-        //saída
+        //contar
         Console.WriteLine($"quantidade: {lista.Contar()}");
     }
 }

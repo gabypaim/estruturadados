@@ -77,48 +77,6 @@ public class Lista
         }
         return null;
     }
-
-    public bool RemoverDoInicio()
-    {
-        if (Inicio == null)
-        {
-            return false;
-        }
-
-        Inicio = Inicio.Proximo;
-
-        return true;
-    }
-
-    public void Remover(int valor)
-    {
-        if (Inicio == null)
-        {
-            return;
-        }
-
-        if (Inicio.Valor == valor)
-        {
-            Inicio = Inicio.Proximo;
-        }
-
-        No? anterior = null;
-        No? atual = Inicio;
-
-        while (atual != null && atual.Valor != valor)
-        {
-            anterior = atual;
-            atual = atual.Proximo;
-        }
-
-        if (atual == null)
-        {
-            return;
-        }
-
-        anterior!.Proximo = atual.Proximo;
-    }
-    
     public bool InserirDepoisDe(int valorReferencia, int novoValor)
     {
         

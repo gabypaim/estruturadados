@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\bin\Debug\net10.0\ex06RemoverValor.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\bin\Debug\net10.0\ex06RemoverValor.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\bin\Debug\net10.0\ex06RemoverValor.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\bin\Debug\net10.0\ex06RemoverValor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\bin\Debug\net10.0\ex06RemoverValor.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\refint\ex06RemoverValor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ex06RemoverValor.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex06RemoverValor\ex06RemoverValor\obj\Debug\net10.0\ref\ex06RemoverValor.dll

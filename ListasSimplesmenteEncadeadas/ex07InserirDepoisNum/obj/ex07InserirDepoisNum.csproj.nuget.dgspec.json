@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj": {
+    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj",
         "projectName": "ex07InserirDepoisNum",
-        "projectPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj",
-        "packagesPath": "C:\\Users\\gabyp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\obj\\",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\ex07InserirDepoisNum.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex07InserirDepoisNum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabyp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

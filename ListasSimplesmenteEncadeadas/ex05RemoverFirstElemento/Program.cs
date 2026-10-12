@@ -24,8 +24,10 @@ class Program
             ? $"\nEncontrado: {encontrado.Valor}"
             : "Não encontrado!\n");
         
-        //saída
+        //contar
         Console.WriteLine($"quantidade: {lista.Contar()}");
+        
+        //remover saida
         Console.WriteLine($"Removido: {removido}");
         
         Console.WriteLine("\nLista agora:");

@@ -6,35 +6,31 @@ class Program
     {
         Lista lista = new Lista();
 
+        // Inserir
         lista.InserirNoInicio(20);
         lista.InserirNoInicio(10);
         lista.InserirNoFinal(30);
         lista.InserirNoFinal(50);
+        
+        //inserir depois de
+        bool inserido = lista.InserirDepoisDe(20, 25);
+      
 
-        lista.InserirDepoisDe(20, 25);
-
+        // Mostrar lista antes
         Console.WriteLine("\nLista antes:");
         lista.Mostrar();
         
+        // Buscar
         No? encontrado = lista.Buscar(30);
 
         Console.WriteLine(encontrado != null
             ? $"\nEncontrado: {encontrado.Valor}"
-            : "Não encontrado!\n");
+            : "\nNão encontrado!");
 
+        // Contar
         Console.WriteLine($"Quantidade: {lista.Contar()}");
+        Console.WriteLine($"Inserido: {inserido}");
 
-        lista.Remover(30);
-
-        Console.WriteLine("\nLista agora:");
-        lista.Mostrar();
-
-        encontrado = lista.Buscar(30);
-
-        Console.WriteLine($"Quantidade: {lista.Contar()}");
-        Console.WriteLine(encontrado != null
-            ? $"\nEncontrado: {encontrado.Valor}"
-            : "Não encontrado!\n");
-
-    }
+       
+    }   
 }

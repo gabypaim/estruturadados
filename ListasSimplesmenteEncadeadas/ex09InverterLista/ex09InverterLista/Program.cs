@@ -6,37 +6,43 @@ class Program
     {
         Lista lista = new Lista();
         
+        //inserir
         lista.InserirNoInicio(20);
         lista.InserirNoFinal(10);
         lista.InserirNoInicio(2);
         lista.InserirNoFinal(30);
         lista.InserirNoFinal(50);
         
-        Console.WriteLine($"Lista antes\n");
+        Console.WriteLine($"Lista antes");
         lista.Mostrar();
         
+        //remover
         lista.Remover(10);
         lista.RemoverDoInicio();
+        
+        //inserir depois 
         lista.InserirDepoisDe(20,25);
+
+        //buscar
+        No? encontrado = lista.Buscar(30);
+
+        Console.WriteLine(encontrado != null
+            ? $"\nEncontrado: {encontrado.Valor}"
+            : "\nNão encontrado!");
         
-        No? encontrado;
-
-        encontrado = lista.Buscar(10);
-        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
-
-        encontrado = lista.Buscar(20);
-        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
-
-        encontrado = lista.Buscar(40);
-        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
-
-        encontrado = lista.Buscar(50);
-        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
-        
-        Console.Write("Lista agora:\n");
-        lista.Mostrar();
+        //contar
         Console.WriteLine($"Quantidade: {lista.Contar()}");
-        Console.WriteLine($"Posição 2: {lista.ObterPorPosição(2)} valor: {lista.ObterPorPosição(2)?.Valor}");
+        //obter Posição
+        Console.WriteLine($"Posição 2: {lista.ObterPorPosicao(2)} valor: {lista.ObterPorPosicao(2)?.Valor}");
+
+       
+        Console.Write("\nLista agora:\n");
+        lista.Inverter();
+        lista.Mostrar();
         
+        //contar
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
+        //obter Posição
+        Console.WriteLine($"Posição 2: {lista.ObterPorPosicao(2)} valor: {lista.ObterPorPosicao(2)?.Valor}");
     }
 }

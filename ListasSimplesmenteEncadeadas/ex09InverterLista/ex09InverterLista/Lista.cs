@@ -139,7 +139,7 @@ public class Lista
         return false; // retorna false se não encontrar
     }
 
-    public No ObterPorPosição(int posicao)
+    public No? ObterPorPosicao(int posicao)
     {
         if (posicao < 0) // se posicao for negativa 
         {
