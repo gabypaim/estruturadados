@@ -52,22 +52,22 @@ public class Lista
 
     public No Buscar(int valor)
     {
-        if (Inicio == null)
+        if (Inicio == null) //inicio for nulo
         {
-            return null;
+            return null; //retorna nulo e acaba
         }
 
-        No atual = Inicio;
+        No? atual = Inicio; //começa
 
-        while (atual != null)
+        while (atual != null) // enquanto atual for diferente de nulo
         {
-            if (atual.Valor == valor)
+            if (atual.Valor == valor) // se valor atual for igual o valor buscado
             {
-                return atual;
+                return atual; // retorna o valor
             }
-            atual = atual.Proximo;
+            atual = atual.Proximo; // passa para o proximo
         }
-        return null;
+        return null; // retorna nulo se não encontrar
     }
     public bool RemoverDoInicio()
     {
@@ -110,12 +110,75 @@ public class Lista
         anterior!.Proximo = atual.Proximo; //anterior não vai apontar para o proximo ele vai apontar para o proximo do atual (vai pular o atual e ir direto pro proximo)
     }
 
-    public void InserirDepoisDe(int valor, int referencia)
+    public bool InserirDepoisDe(int valorReferencia, int novoValor)
     {
-        if (Inicio == null)
+        
+        if (Inicio == null) // inicio for vazio
         {
-            return;
+            return false; //retorna falso e acaba o metodo
         }
+        
+        No? atual = Inicio; //começa
+
+        while (atual != null && atual.Valor != valorReferencia) //enquanto o atual n for nulo e atual for diferente da ref
+        {
+            atual = atual.Proximo; // passa para o proximo
+        }
+
+        if (atual != null) // se o atual for diff de nulo
+        {
+            No novoNo = new No(); // cria o no e add o valor
+            novoNo.Valor = novoValor;
+            
+            novoNo.Proximo = atual.Proximo; // o proximo do novoNo é o proximo do atual
+            atual.Proximo = novoNo; // o atual agora fica antes do novoNo
+            
+            return true; // retorna true
+        }
+
+        return false; // retorna false se não encontrar
+    }
+
+    public No ObterPorPosição(int posicao)
+    {
+        if (posicao < 0) // se posicao for negativa 
+        {
+            return null; // retorna nulo 
+        }
+        
+        int contador = 0; // contador 0
+        No? atual = Inicio; // começa
+    
+        while (atual != null) // atual não ultrapassar a lista
+        {
+            if (contador == posicao) // contador encontrar a posição
+            {
+                return atual; //retorna o no completo
+            }
+            
+            atual = atual.Proximo; // passa pro proximo
+            contador++; // contador +1
+        }
+
+        return null;  // retorna nuolo
+    }
+
+    public void Inverter()
+    {
+        // 10, 20 , 30 , 40, 50 , null
+        No? anterior = null; 
+        No? atual = Inicio; //atual = 10
+
+        while (atual != null)
+        {                 //10.20
+            No? proximo = atual.Proximo; //proximo20
+            atual.Proximo = anterior; // 10 apontar-> null
+            
+            anterior = atual; //anterior = 10
+            atual = proximo; // 20 e repete enquanto não acabar a lista, que bomba é essa meu deus
+        }
+        
+        Inicio = anterior; // agora o inicio é esse
     }
     
     public void Mostrar()
