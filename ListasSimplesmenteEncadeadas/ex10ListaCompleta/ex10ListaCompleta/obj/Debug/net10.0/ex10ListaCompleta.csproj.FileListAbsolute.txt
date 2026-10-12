@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\bin\Debug\net10.0\ex10ListaCompleta.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\bin\Debug\net10.0\ex10ListaCompleta.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\bin\Debug\net10.0\ex10ListaCompleta.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\bin\Debug\net10.0\ex10ListaCompleta.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\bin\Debug\net10.0\ex10ListaCompleta.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\refint\ex10ListaCompleta.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ex10ListaCompleta.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex10ListaCompleta\ex10ListaCompleta\obj\Debug\net10.0\ref\ex10ListaCompleta.dll
