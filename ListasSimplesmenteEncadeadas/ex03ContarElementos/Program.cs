@@ -10,10 +10,7 @@ class Program
         lista.InseriorNoInicio(10);
         lista.InserirNoFinal(30);
         
-        int quantidade = lista.Contar();
-
         lista.Mostrar();
-        Console.WriteLine($"Quantidade: {quantidade}");
-
+        Console.WriteLine($"Quantidade de nós: {lista.Contar()}");
     }
 }

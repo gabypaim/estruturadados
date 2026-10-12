@@ -10,10 +10,23 @@ class Program
         lista.InserirNoInicio(20);
         lista.InserirNoInicio(10);
         lista.Mostrar();
-        int quantidade = lista.Contar();
-        No? encontrado = lista.Buscar(10);
+        
+        No? encontrado;
+        
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
+        
+        encontrado = lista.Buscar(10);
+        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
 
+        encontrado = lista.Buscar(20);
+        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
+
+        encontrado = lista.Buscar(40);
+        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
+
+        encontrado = lista.Buscar(50);
+        Console.WriteLine(encontrado != null ? encontrado.Valor : "Valor não encontrado");
+        
         Console.WriteLine(encontrado?.Valor);
-        Console.WriteLine($"quantidade: {quantidade}");
     }
 }

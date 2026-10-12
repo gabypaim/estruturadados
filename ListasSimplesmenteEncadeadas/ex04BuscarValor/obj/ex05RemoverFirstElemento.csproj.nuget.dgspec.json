@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex05RemoverFirstElemento\\ex05RemoverFirstElemento.csproj": {}
+    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex04BuscarValor\\ex05RemoverFirstElemento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex05RemoverFirstElemento\\ex05RemoverFirstElemento.csproj": {
+    "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex04BuscarValor\\ex05RemoverFirstElemento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex05RemoverFirstElemento\\ex05RemoverFirstElemento.csproj",
+        "projectUniqueName": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex04BuscarValor\\ex05RemoverFirstElemento.csproj",
         "projectName": "ex05RemoverFirstElemento",
-        "projectPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex05RemoverFirstElemento\\ex05RemoverFirstElemento.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Desktop\\faculdade\\estruturadados\\ListasSimplesmenteEncadeadas\\ex05RemoverFirstElemento\\obj\\",
+        "projectPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex04BuscarValor\\ex05RemoverFirstElemento.csproj",
+        "packagesPath": "C:\\Users\\gabyp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabyp\\Documents\\GitHub\\estruturadados\\ListasSimplesmenteEncadeadas\\ex04BuscarValor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\gabyp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -15,22 +15,26 @@ class Program
 
         Console.WriteLine("\nLista antes:");
         lista.Mostrar();
-
+        
         No? encontrado = lista.Buscar(30);
-        int quantidade = lista.Contar();
 
-        Console.WriteLine($"Valor encontrado: {encontrado?.Valor}");
-        Console.WriteLine($"Quantidade: {quantidade}");
+        Console.WriteLine(encontrado != null
+            ? $"\nEncontrado: {encontrado.Valor}"
+            : "Não encontrado!\n");
+
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
 
         lista.Remover(30);
 
         Console.WriteLine("\nLista agora:");
         lista.Mostrar();
 
-        quantidade = lista.Contar();
         encontrado = lista.Buscar(30);
 
-        Console.WriteLine($"Quantidade: {quantidade}");
-        Console.WriteLine($"Valor encontrado: {encontrado?.Valor}");
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
+        Console.WriteLine(encontrado != null
+            ? $"\nEncontrado: {encontrado.Valor}"
+            : "Não encontrado!\n");
+
     }
 }

@@ -11,24 +11,24 @@ class Program
         lista.InserirNoFinal(30);
         lista.InserirNoFinal(50);
 
-        Console.WriteLine("\nLista antes:");
+        Console.WriteLine("Lista antes:");
         lista.Mostrar();
-
+        
+        //buscar
         No? encontrado = lista.Buscar(30);
-        int quantidade = lista.Contar();
+        Console.WriteLine(encontrado != null
+            ? $"\nEncontrado: {encontrado.Valor}"
+            :"Não encontrado!\n"
+            );
 
-        Console.WriteLine($"Valor encontrado: {encontrado?.Valor}");
-        Console.WriteLine($"Quantidade: {quantidade}");
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
 
+        
         lista.Remover(30);
-
+        
         Console.WriteLine("\nLista agora:");
         lista.Mostrar();
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
 
-        quantidade = lista.Contar();
-        encontrado = lista.Buscar(30);
-
-        Console.WriteLine($"Quantidade: {quantidade}");
-        Console.WriteLine($"Valor encontrado: {encontrado?.Valor}");
     }
 }

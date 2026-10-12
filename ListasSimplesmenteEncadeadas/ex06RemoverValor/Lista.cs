@@ -58,7 +58,7 @@ public class Lista
 
         while (atual != null)
         {
-            Console.WriteLine(atual.Valor);
+            Console.WriteLine($"* {atual.Valor}");
             atual = atual.Proximo;
         }
     }

@@ -118,24 +118,33 @@ public class Lista
 
         anterior!.Proximo = atual.Proximo;
     }
-
-    public void InserirDepoisDe(int valorReferencia, int novoValor)
+    
+    public bool InserirDepoisDe(int valorReferencia, int novoValor)
     {
-        No? atual = Inicio;
-
-        while (atual != null && atual.Valor != valorReferencia)
+        
+        if (Inicio == null) // inicio for vazio
         {
-            atual = atual.Proximo;
+            return false; //retorna falso e acaba o metodo
+        }
+        
+        No? atual = Inicio; //começa
+
+        while (atual != null && atual.Valor != valorReferencia) //enquanto o atual n for nulo e atual for diferente da ref
+        {
+            atual = atual.Proximo; // passa para o proximo
         }
 
-        if (atual != null)
+        if (atual != null) // se o atual for diff de nulo
         {
-            No novoNo = new No();
+            No novoNo = new No(); // cria o no e add o valor
             novoNo.Valor = novoValor;
-
-            novoNo.Proximo = atual.Proximo;
-            atual.Proximo = novoNo;
+            
+            novoNo.Proximo = atual.Proximo; // o proximo do novoNo é o proximo do atual
+            atual.Proximo = novoNo; // o atual agora fica antes do novoNo
+            
+            return true; // retorna true
         }
-    }
 
+        return false; // retorna false se não encontrar
+    }
 }
