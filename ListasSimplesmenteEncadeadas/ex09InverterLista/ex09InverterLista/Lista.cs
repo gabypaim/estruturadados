@@ -50,7 +50,7 @@ public class Lista
         return quantidade;
     }
 
-    public No Buscar(int valor)
+    public No? Buscar(int valor)
     {
         if (Inicio == null) //inicio for nulo
         {
