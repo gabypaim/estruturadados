@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Lista lista = new Lista();
+        ListaSimples lista = new ListaSimples();
 
         // Inserir
         lista.InserirNoInicio(20);

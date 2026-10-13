@@ -1,9 +1,9 @@
 ﻿namespace Fsg.EstruturaDados;
 
 
-public class Lista
+public class ListaSimples
 {
-    public No? Inicio {  get; set; }
+    public No? Inicio { get; set; }
 
     public void InserirNoInicio(int valor)
     {
@@ -58,7 +58,7 @@ public class Lista
 
         while (atual != null)
         {
-            Console.WriteLine($"* {atual.Valor}");
+            Console.WriteLine(atual.Valor);
             atual = atual.Proximo;
         }
     }
@@ -77,18 +77,32 @@ public class Lista
         }
         return null;
     }
-
-    public bool RemoverDoInicio()
+    public bool InserirDepoisDe(int valorReferencia, int novoValor)
     {
-        if (Inicio == null)
+        
+        if (Inicio == null) // inicio for vazio
         {
-            return false;
+            return false; //retorna falso e acaba o metodo
         }
-         
-        Inicio = Inicio.Proximo;
+        
+        No? atual = Inicio; //começa
 
-        return true;
+        while (atual != null && atual.Valor != valorReferencia) //enquanto o atual n for nulo e atual for diferente da ref
+        {
+            atual = atual.Proximo; // passa para o proximo
+        }
+
+        if (atual != null) // se o atual for diff de nulo
+        {
+            No novoNo = new No(); // cria o no e add o valor
+            novoNo.Valor = novoValor;
+            
+            novoNo.Proximo = atual.Proximo; // o proximo do novoNo é o proximo do atual
+            atual.Proximo = novoNo; // o atual agora fica antes do novoNo
+            
+            return true; // retorna true
+        }
+
+        return false; // retorna false se não encontrar
     }
-
 }
-

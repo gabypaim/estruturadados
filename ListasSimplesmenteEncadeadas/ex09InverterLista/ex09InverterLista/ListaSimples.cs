@@ -1,6 +1,6 @@
 ﻿namespace Fsg.EstruturaDados;
 
-public class Lista
+public class ListaSimples
 {
     public No? Inicio {get; set;}
 

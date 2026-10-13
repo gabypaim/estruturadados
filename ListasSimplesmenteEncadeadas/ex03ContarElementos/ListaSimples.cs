@@ -4,7 +4,7 @@ public class ListaSimples
 {
     public No? Inicio {  get; set; }
 
-    public void InseriorNoInicio(int valor)
+    public void InserirNoInicio(int valor)
     {
         No novoNo = new No();
 

@@ -1,6 +1,6 @@
 ﻿namespace Fsg.EstruturaDados;
 
-public class Lista
+public class ListaSimples
 {
     public No? Inicio { get; set; }
 
@@ -55,7 +55,7 @@ public class Lista
             return null;
         }
 
-        No atual = Inicio;
+        No? atual = Inicio;
 
         while (atual != null)
         {

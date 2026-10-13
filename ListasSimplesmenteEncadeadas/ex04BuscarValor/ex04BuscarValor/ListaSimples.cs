@@ -1,8 +1,8 @@
 ﻿namespace Fsg.EstruturaDados;
 
-public class Lista
+public class ListaSimples
 {
-    No? Inicio { get; set; }
+    public No? Inicio { get; set; }
     
     public void InserirNoInicio(int valor)
     {
@@ -56,7 +56,7 @@ public class Lista
             return null;
         }
 
-        No atual = Inicio;
+        No? atual = Inicio;
 
         while (atual != null)
         {

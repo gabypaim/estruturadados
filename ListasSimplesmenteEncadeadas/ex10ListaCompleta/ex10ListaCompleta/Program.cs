@@ -4,50 +4,53 @@ class Program
 {
     static void Main()
     {
-        Lista lista = new Lista();
+        ListaSimples lista = new ListaSimples();
 
-        // Inserir cinco valores
+        // inserir
+        lista.InserirNoInicio(20);
         lista.InserirNoFinal(10);
-        lista.InserirNoFinal(20);
+        lista.InserirNoInicio(2);
         lista.InserirNoFinal(30);
-        lista.InserirNoFinal(40);
         lista.InserirNoFinal(50);
 
-        // Listar a estrutura
-        Console.WriteLine("Lista inicial:");
+        Console.WriteLine("Lista antes:");
         lista.Listar();
 
-        // Buscar um valor
+        // remover
+        lista.Remover(10);
+        lista.RemoverDoInicio();
+
+        // inserir depois
+        lista.InserirDepoisDe(20, 25);
+
+        // buscar
         No? encontrado = lista.Buscar(30);
 
         Console.WriteLine(encontrado != null
-            ? $"Encontrado: {encontrado.Valor}"
-            : "Não encontrado!");
+            ? $"\nEncontrado: {encontrado.Valor}"
+            : "\nNão encontrado!");
 
-        // Remover um valor intermediário
-        lista.Remover(30);
+        // contar
+        Console.WriteLine($"Quantidade: {lista.Contar()}");
 
-        // Inserir depois de um nó existente
-        lista.InserirDepoisDe(20, 25);
-
-        // Consultar uma posição
+        // obter posição
         No? posicao = lista.ObterPorPosicao(2);
 
         Console.WriteLine(posicao != null
-            ? $"Valor da posição 2: {posicao.Valor}"
-            : "Posição inválida!");
+            ? $"\nPosição 2: {posicao.Valor}"
+            : "\nPosição inválida!");
 
-        // Inverter a lista
+        // inverter
         lista.Inverter();
 
-        // Listar o resultado final
-        Console.WriteLine("\nLista final:");
+        Console.WriteLine("\nLista depois de inverter:");
         lista.Listar();
 
-          
-        // No vetor, o acesso por posição é mais rápido.
-        // A lista pode crescer sem precisar definir um tamanho fixo.
-        // Na lista, inserir e remover no início é mais fácil, pois basta mudar o Inicio.
-          
+        // comparação com vetor:
+        // No vetor, acessar uma posição é mais rápido.
+        // Na lista, precisamos percorrer os nós até chegar na posição.
+        // O vetor tem tamanho definido, enquanto a lista pode crescer.
+        // Inserir e remover no início da lista é simples,
+        // pois basta alterar o Inicio.
     }
 }

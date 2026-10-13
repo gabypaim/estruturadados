@@ -6,8 +6,8 @@ class Program
     {
         ListaSimples lista = new ListaSimples();
 
-        lista.InseriorNoInicio(20);
-        lista.InseriorNoInicio(10);
+        lista.InserirNoInicio(20);
+        lista.InserirNoInicio(10);
         lista.InserirNoFinal(30);
         
         lista.Mostrar();
