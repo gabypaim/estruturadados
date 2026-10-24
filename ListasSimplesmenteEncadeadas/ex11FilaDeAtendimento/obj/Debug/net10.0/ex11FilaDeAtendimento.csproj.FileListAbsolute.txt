@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\bin\Debug\net10.0\ex11FilaDeAtendimento.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\bin\Debug\net10.0\ex11FilaDeAtendimento.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\bin\Debug\net10.0\ex11FilaDeAtendimento.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\bin\Debug\net10.0\ex11FilaDeAtendimento.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\bin\Debug\net10.0\ex11FilaDeAtendimento.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\refint\ex11FilaDeAtendimento.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ex11FilaDeAtendimento.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex11FilaDeAtendimento\obj\Debug\net10.0\ref\ex11FilaDeAtendimento.dll
