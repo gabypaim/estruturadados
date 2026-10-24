@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\bin\Debug\net10.0\ex15UnificarPedidos.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\bin\Debug\net10.0\ex15UnificarPedidos.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\bin\Debug\net10.0\ex15UnificarPedidos.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\bin\Debug\net10.0\ex15UnificarPedidos.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\bin\Debug\net10.0\ex15UnificarPedidos.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\refint\ex15UnificarPedidos.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ex15UnificarPedidos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex15UnificarPedidos\obj\Debug\net10.0\ref\ex15UnificarPedidos.dll

@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\bin\Debug\net10.0\ex13LeituraSensor.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\bin\Debug\net10.0\ex13LeituraSensor.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\bin\Debug\net10.0\ex13LeituraSensor.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\bin\Debug\net10.0\ex13LeituraSensor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\bin\Debug\net10.0\ex13LeituraSensor.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\refint\ex13LeituraSensor.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ex13LeituraSensor.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex13LeituraSensor\obj\Debug\net10.0\ref\ex13LeituraSensor.dll

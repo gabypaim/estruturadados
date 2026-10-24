@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\bin\Debug\net10.0\ex12HistoricoNavegacao.exe
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\bin\Debug\net10.0\ex12HistoricoNavegacao.deps.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\bin\Debug\net10.0\ex12HistoricoNavegacao.runtimeconfig.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\bin\Debug\net10.0\ex12HistoricoNavegacao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\bin\Debug\net10.0\ex12HistoricoNavegacao.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.AssemblyInfo.cs
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.sourcelink.json
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\refint\ex12HistoricoNavegacao.dll
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.pdb
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ex12HistoricoNavegacao.genruntimeconfig.cache
+C:\Users\gabri\Desktop\faculdade\estruturadados\ListasSimplesmenteEncadeadas\ex12HistoricoNavegacao\obj\Debug\net10.0\ref\ex12HistoricoNavegacao.dll
